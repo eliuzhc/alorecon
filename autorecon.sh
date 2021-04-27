@@ -16,7 +16,7 @@ green=`tput setaf 2`
 yellow=`tput setaf 3`
 reset=`tput sgr0`
 
-helpMessage="${red}aloo alooooooo help message alooooooOOOO${reset}"
+helpMessage="${red}aloo alooooooo DIOCANE help message alooooooOOOO${reset}"
 
 #default values
 aggressive=0
